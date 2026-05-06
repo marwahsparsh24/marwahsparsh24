@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=250&section=header&text=Sparsh%20Marwah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Leader%20|%20ML%20Strategist%20|%20GenAI%20Innovator&descAlignY=55&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:6366f1&height=260&section=header&text=Sparsh%20Marwah&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder&descAlignY=56&descSize=22)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparshmarwah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1e3a8a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sparshmarwah.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sparshmarwah.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwahsparsh24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparshmarwah)
 
@@ -11,134 +11,80 @@
 
 ---
 
-## 🎯 Executive Summary
+## 🚀 About Me
 
-**Data Science Leader** with proven track record of driving **measurable business impact** through advanced ML pipelines, GenAI solutions, and enterprise-scale analytics systems. Specialized in transforming complex data challenges into strategic advantages that directly influence revenue growth and operational efficiency.
+I'm a **Data Scientist** with 3+ years of hands-on experience building end-to-end ML pipelines, GenAI solutions, and enterprise-scale analytics systems. Currently at **Squark AI**, I design cloud-native ML infrastructure using H2O AutoML, NLP embeddings, and production MLOps tooling.
 
-### 📊 Leadership Impact Dashboard
+I hold an **MS in Data Analytics Engineering** from **Northeastern University (GPA: 3.8/4.0)** and love turning complex data into measurable real-world impact — from boosting user retention to accelerating model deployment cycles.
+
+---
+
+## 📊 Impact at a Glance
 
 <div align="center">
 
-| **Metric** | **Achievement** | **Business Value** |
-|:-----------|:----------------|:-------------------|
-| 🚀 **Model Performance** | 35% faster training speeds | Accelerated time-to-market for ML products |
-| 📈 **Predictive Accuracy** | 18% user retention increase | Direct revenue impact for 10M+ user base |
-| ⚡ **Operational Efficiency** | 40% reduced deployment time | Streamlined ML development lifecycle |
-| 💰 **Cost Optimization** | 25% latency reduction | Enhanced production reliability & cost savings |
-| 🎯 **Strategic Initiatives** | 15% AUC improvement | Validated predictive granularity via A/B testing |
-| 📊 **Data Integrity** | 100% migration accuracy | Zero tracking errors in enterprise systems |
+| Metric | Achievement |
+|:-------|:------------|
+| 🚀 **Model Training Speed** | +35% faster via AWS cloud-native pipeline (H2O AutoML) |
+| 📈 **User Retention** | +18% for a 10M+ user retail platform |
+| ⚡ **Deployment Time** | −40% through end-to-end MLOps automation in Databricks |
+| 💡 **Predictive Accuracy** | +12% with BERT & Word2Vec custom preprocessing |
+| 🎯 **AUC Score** | +15% via clustering integration + A/B testing |
+| 📊 **Data Integrity** | 100% accuracy during enterprise inventory migration |
 
 </div>
 
 ---
 
-## 💼 Leadership Philosophy
+## 🛠️ Tech Stack
 
-> **"Transforming data complexity into strategic clarity—where every model deployment drives measurable business outcomes, every pipeline optimization accelerates innovation, and every insight empowers stakeholders to make confident, data-driven decisions."**
+<div align="center">
 
-I lead with a **results-first, people-centric approach**, focusing on building scalable ML systems that deliver tangible ROI while fostering collaborative environments where technical excellence meets business strategy. My leadership emphasizes **cross-functional alignment**, **continuous innovation**, and **sustainable growth**.
+### Languages & Data Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
----
+### Machine Learning & AI
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![H2O AutoML](https://img.shields.io/badge/H2O_AutoML-FFD700?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-8B5CF6?style=for-the-badge)
 
-## 🏗️ Strategic Impact Framework
+### GenAI & LLM Tools
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge)
 
-```mermaid
-graph TB
-    A[Strategic Vision] -->|Define Objectives| B[Data-Driven Strategy]
-    B -->|Build Solutions| C[ML Pipeline Development]
-    C -->|Deploy & Monitor| D[Production Systems]
-    D -->|Measure Impact| E[Business Outcomes]
-    E -->|Iterate & Scale| F[Revenue Growth]
-    
-    B -->|Enable| G[Team Leadership]
-    G -->|Mentor & Guide| H[Technical Excellence]
-    H -->|Deliver| C
-    
-    E -->|Validate| I[A/B Testing & Analytics]
-    I -->|Optimize| C
-    
-    style F fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
-    style E fill:#2196F3,stroke:#1565C0,stroke-width:2px,color:#fff
-    style A fill:#1e3a8a,stroke:#1e40af,stroke-width:2px,color:#fff
-```
+### MLOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
----
+### Data Platforms & Warehousing
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
-## 📈 Career Progression Timeline
+### Visualization & Analytics
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-```mermaid
-timeline
-    title Professional Journey
-    section Foundation
-        2017-2021 : Bachelor of Technology
-                  : Computer Science Engineering
-                  : SRM Institute
-        2019 : Data Analyst Intern
-             : SJVN Ltd
-             : 100% data integrity
-    section Growth Phase
-        2021-2023 : Data Science Analyst
-                  : Tredence Analytics
-                  : 18% retention increase
-                  : 10M+ user impact
-        2023-2025 : Master of Science
-                  : Data Analytics Engineering
-                  : Northeastern University
-                  : 3.8 GPA
-    section Leadership Era
-        2025-Present : Data Scientist
-                     : Squark AI
-                     : 35% speed improvement
-                     : 15% AUC boost
-```
+</div>
 
 ---
 
-## 🎖️ Key Strategic Achievements
-
-### 💡 **ML Infrastructure & Innovation**
-
-**Squark AI** | *Data Scientist* | *Jun 2025 - Present*
-
-- 🚀 **Accelerated Model Training by 35%** — Architected AWS cloud-native ML pipeline using H2O AutoML, supporting diverse structured and unstructured datasets, reducing time-to-market for predictive models
-- 📊 **Boosted Predictive Accuracy by 12%** — Engineered custom preprocessing framework with NLP embeddings (BERT, Word2Vec), enhancing feature selection and model precision
-- ⚡ **Reduced Data Retrieval Latency by 25%** — Integrated MinIO and S3 for artifact versioning, ensuring production reliability and cost optimization
-- 🎯 **Improved AUC Score by 15%** — Led clustering integration initiative, validating redefined prediction granularity through rigorous A/B testing methodology
-
-**Business Impact:** Delivered scalable ML infrastructure that directly improved product performance metrics while reducing operational costs and deployment friction.
-
----
-
-### 📊 **Enterprise-Scale Analytics & MLOps**
-
-**Tredence Analytics Solutions** | *Data Science Analyst* | *Jun 2021 - Jul 2023*
-
-- 💰 **Increased User Retention by 18%** — Developed and validated predictive churn models (Random Forest, XGBoost) for top-tier retail client with 10M+ user base, driving significant revenue retention
-- 🔄 **Reduced Deployment Time by 40%** — Engineered end-to-end MLOps pipelines in Databricks with automated validation checks, accelerating model-to-market cycles
-- 📈 **Engineered 15% Performance Lift** — Designed and executed A/B and multivariate tests using statistical rigor (t-tests), improving cross-category product performance
-- 🎯 **Enhanced KPI Accuracy by 20%** — Built real-time inference pipelines with automated drift monitoring and retraining, sustaining model performance in production
-
-**Business Impact:** Transformed data science operations from ad-hoc experimentation to systematic, production-ready ML systems that delivered measurable ROI and competitive advantages.
-
----
-
-### 🔧 **Data Engineering & Analytics Foundation**
-
-**SJVN Ltd.** | *Data Analyst Intern* | *Jun 2019 - Dec 2019*
-
-- ✅ **Ensured 100% Data Integrity** — Developed SQL validation queries during inventory migrations, preventing critical tracking errors
-- 📊 **Improved Forecasting Accuracy by 20%** — Built scikit-learn ML models in Python, reducing inventory stockouts and optimizing supply chain
-- 📈 **Enabled 20+ Data-Driven Decisions Weekly** — Created interactive Tableau dashboards, improving planning transparency for stakeholders
-
-**Business Impact:** Established robust data quality standards and analytics frameworks that enabled informed decision-making across operations.
-
----
-
-## 🧠 Technical Leadership Expertise
+## 🧠 Skills Map
 
 ```mermaid
 mindmap
-  root((Sparsh Marwah<br/>Data Science Leader))
+  root((Sparsh Marwah))
     ML Engineering
       H2O AutoML
       XGBoost
@@ -177,124 +123,127 @@ mindmap
 
 ---
 
-## 🛠️ Technology Stack - Executive Overview
+## 🚀 Featured Projects
 
-<div align="center">
-
-### **Core Programming & Data Science**
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-Production-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-### **Machine Learning & AI Frameworks**
-![H2O](https://img.shields.io/badge/H2O_AutoML-Expert-FFD700?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-Advanced-FF6600?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-NLP-00599C?style=for-the-badge)
-
-### **GenAI & LLM Tools**
-![LangChain](https://img.shields.io/badge/LangChain-Production-00A67E?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-Agentic_RAG-8B5CF6?style=for-the-badge)
-
-### **Cloud & MLOps Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-Production-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Production-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-MLOps-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### **Data Platforms & Warehousing**
-![Snowflake](https://img.shields.io/badge/Snowflake-Enterprise-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-Data_Warehouse-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### **Analytics & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Strategic Projects
-
-### 🤖 **AI-Powered Resume & Job Description Matching Assistant**
+### 🤖 AI-Powered Resume & Job Description Matching Assistant
 [![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparshmarwah/AI-Resume-Matcher)
 
-**Strategic Innovation:** Architected Agentic RAG system using CrewAI and LangChain to automate context-aware resume scoring and tailored cover letter generation.
+Architected an **Agentic RAG system** using **CrewAI** and **LangChain** to automate context-aware resume scoring and tailored cover letter generation — eliminating manual screening overhead.
 
-**Technologies:** CrewAI, LangChain, RAG, GenAI  
-**Business Value:** Streamlined recruitment workflows, reducing time-to-hire while improving candidate-job alignment accuracy
+`CrewAI` `LangChain` `Agentic AI` `RAG` `GenAI`
 
 ---
 
-### 📉 **Customer Churn Prediction System**
+### 📉 Customer Churn Prediction
 [![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparshmarwah/Customer-Churn-Prediction)
 
-**Strategic Impact:** Built 85% accurate predictive model using XGBoost to identify high-risk customer segments and key retention drivers.
+Built an **85% accurate predictive model** using **XGBoost** to identify high-risk customer segments and key churn drivers through statistical analysis and feature engineering.
 
-**Technologies:** XGBoost, Statistical Analysis, Feature Engineering  
-**Business Value:** Enabled proactive retention strategies, directly impacting customer lifetime value and revenue stability
+`XGBoost` `Feature Engineering` `Statistical Analysis` `scikit-learn`
 
 ---
 
-### 💬 **Yelp Sentiment Analyzer & Recommendation System**
+### 💬 Yelp Sentiment Analyzer & Recommendation System
 [![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparshmarwah/Yelp-Sentiment-Analyzer)
 
-**Strategic Innovation:** Developed Neural Network with 91.4% accuracy to classify unstructured Yelp reviews and engineered hybrid recommendation engine.
+Developed a **Neural Network with 91.4% accuracy** to classify unstructured Yelp reviews and engineered a **hybrid recommendation engine** using sentiment embeddings for personalized suggestions.
 
-**Technologies:** Neural Networks, Sentiment Embeddings, NLP  
-**Business Value:** Enhanced user experience through personalized recommendations, driving engagement and platform stickiness
+`Neural Networks` `NLP` `Sentiment Analysis` `Recommendation Systems`
 
 ---
 
-## 📚 Education & Continuous Learning
+## 💼 Experience
+
+### 🏢 Data Scientist — Squark AI *(Jun 2025 – Present)*
+> Remote, United States
+
+- Built AWS cloud-native ML pipeline using **H2O AutoML** → **35% faster model training**
+- Engineered custom preprocessing with **BERT & Word2Vec** embeddings → **+12% predictive accuracy**
+- Integrated **MinIO & S3** for artifact versioning → **25% lower data retrieval latency**
+- Combined clustering + A/B testing to validate prediction granularity → **+15% AUC score**
+
+---
+
+### 🏢 Data Science Analyst — Tredence Analytics Solutions *(Jun 2021 – Jul 2023)*
+> Bengaluru, India
+
+- Built churn models (**Random Forest, XGBoost**) for 10M+ user retail platform → **+18% user retention**
+- Engineered end-to-end **MLOps pipelines in Databricks** with automated validation → **−40% deployment time**
+- Designed **A/B & multivariate tests** using t-tests → **15% cross-category performance lift**
+- Built real-time inference pipelines with automated drift monitoring → **+20% KPI accuracy**
+
+---
+
+### 🏢 Data Analyst Intern — SJVN Ltd. *(Jun 2019 – Dec 2019)*
+> Shimla, India
+
+- Developed **SQL validation queries** during inventory migrations → **100% data integrity**
+- Built **scikit-learn ML models** in Python → **+20% forecasting accuracy**, reduced stockouts
+- Created interactive **Tableau dashboards** → enabled **20+ data-driven decisions weekly**
+
+---
+
+## 🎓 Education
 
 <div align="center">
 
-| 🎓 **Degree** | 🏛️ **Institution** | 📅 **Period** | 📊 **Achievement** |
-|:-------------|:-------------------|:--------------|:-------------------|
-| **Master of Science**<br/>Data Analytics Engineering | Northeastern University | Sep 2023 - May 2025 | **GPA: 3.8/4.0** |
-| **Bachelor of Technology**<br/>Computer Science & Engineering | SRM Institute of Science & Technology | Jul 2017 - May 2021 | **Strong Foundation** |
+| Degree | Institution | Period | Achievement |
+|:-------|:------------|:-------|:------------|
+| **MS Data Analytics Engineering** | Northeastern University, Boston MA | Sep 2023 – May 2025 | **GPA: 3.8 / 4.0** |
+| **B.Tech Computer Science & Engineering** | SRM Institute of Science & Technology | Jul 2017 – May 2021 | Strong CS Foundation |
+
+</div>
+
+*Relevant Coursework: Data Management in Analytics · Data Mining in Engineering · Machine Learning Operations*
+
+---
+
+## 📅 Career Timeline
+
+```mermaid
+timeline
+    title Professional Journey
+    section Foundation
+        2017–2021 : B.Tech Computer Science
+                  : SRM Institute
+        2019 : Data Analyst Intern
+             : SJVN Ltd.
+             : 100% data integrity
+    section Growth
+        2021–2023 : Data Science Analyst
+                  : Tredence Analytics
+                  : 18% retention increase
+                  : 10M+ user impact
+        2023–2025 : MS Data Analytics Engineering
+                  : Northeastern University
+                  : GPA 3.8/4.0
+    section Now
+        2025–Present : Data Scientist
+                     : Squark AI
+                     : 35% speed improvement
+                     : 15% AUC boost
+```
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparshmarwah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshmarwah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sparshmarwah&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)
 
 </div>
 
 ---
 
-## 🌟 Leadership Competencies & Soft Skills
-
-```mermaid
-graph LR
-    A[Leadership Core] --> B[Strategic Thinking]
-    A --> C[Cross-Functional Collaboration]
-    A --> D[Stakeholder Management]
-    
-    B --> E[Data-Driven Decision Making]
-    B --> F[Innovation & Problem Solving]
-    
-    C --> G[Team Mentorship]
-    C --> H[Agile Methodologies]
-    
-    D --> I[Executive Communication]
-    D --> J[Business Alignment]
-    
-    style A fill:#1e3a8a,stroke:#1e40af,stroke-width:3px,color:#fff
-    style E fill:#4CAF50,stroke:#2E7D32,stroke-width:2px,color:#fff
-    style I fill:#2196F3,stroke:#1565C0,stroke-width:2px,color:#fff
-```
-
-### **Core Competencies:**
-- 🎯 **Strategic Planning:** Translating business objectives into actionable ML roadmaps
-- 🤝 **Cross-Functional Leadership:** Bridging technical teams with business stakeholders
-- 📊 **Data Storytelling:** Communicating complex insights to executive audiences
-- 🔄 **Agile Execution:** Iterative development with continuous feedback loops
-- 💡 **Innovation Management:** Identifying emerging technologies for competitive advantage
-- 🎓 **Knowledge Sharing:** Building documentation and best practices for team scalability
-
----
-
-## 📊 GitHub Analytics & Impact
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparshmarwah&show_icons=true&theme=tokyonight&hide_border=true&
+*Open to Data Science, ML Engineering, and GenAI roles — let's connect!*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e40af,100:0f172a&height=120&section=footer)
+
+</div>
