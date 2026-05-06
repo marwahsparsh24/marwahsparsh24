@@ -125,30 +125,30 @@ mindmap
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Resume & Job Description Matching Assistant
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparshmarwah/AI-Resume-Matcher)
+### 🤖 JobRADAR — AI Job Notification Agent
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marwahsparsh24/job-radar)
 
-Architected an **Agentic RAG system** using **CrewAI** and **LangChain** to automate context-aware resume scoring and tailored cover letter generation — eliminating manual screening overhead.
+Built an **autonomous job-hunting agent** that crawls Big Tech career pages every 15 minutes and fires personalized email alerts — so you apply before postings get flooded. Open source and fully customizable.
 
-`CrewAI` `LangChain` `Agentic AI` `RAG` `GenAI`
+`Agentic AI` `Web Crawling` `Automation` `Python` `GenAI`
 
 ---
 
 ### 📉 Customer Churn Prediction
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparshmarwah/Customer-Churn-Prediction)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marwahsparsh24/Churn-Prediction)
 
-Built an **85% accurate predictive model** using **XGBoost** to identify high-risk customer segments and key churn drivers through statistical analysis and feature engineering.
+Built a **predictive churn model** using **XGBoost** to identify high-risk customer segments and key retention drivers through statistical analysis and feature engineering.
 
 `XGBoost` `Feature Engineering` `Statistical Analysis` `scikit-learn`
 
 ---
 
 ### 💬 Yelp Sentiment Analyzer & Recommendation System
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparshmarwah/Yelp-Sentiment-Analyzer)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marwahsparsh24/YELP-Sentiment-Analyzer-Recommender)
 
-Developed a **Neural Network with 91.4% accuracy** to classify unstructured Yelp reviews and engineered a **hybrid recommendation engine** using sentiment embeddings for personalized suggestions.
+Built a **recommender system** using KNN, SVD, and Neural Networks, paired with **sentiment analysis** on the Yelp dataset to classify unstructured reviews and power personalized suggestions.
 
-`Neural Networks` `NLP` `Sentiment Analysis` `Recommendation Systems`
+`Neural Networks` `KNN` `SVD` `NLP` `Sentiment Analysis` `Recommendation Systems`
 
 ---
 
